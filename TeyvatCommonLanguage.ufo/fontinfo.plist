@@ -9,7 +9,7 @@
   <key>descender</key>
   <integer>-80</integer>
   <key>familyName</key>
-  <string>Teyvat_Common_Language</string>
+  <string>Teyvat Common Language</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -24,7 +24,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -40,7 +40,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2021/06/04 12:09:32</string>
+  <string>2022/10/31 08:36:41</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -52,17 +52,22 @@
   <integer>-250</integer>
   <key>openTypeHheaLineGap</key>
   <integer>100</integer>
+  <key>openTypeNameDescription</key>
+  <string>Font constructed by Windy_D.</string>
   <key>openTypeNameDesigner</key>
-  <string>miHoYo Inc.</string>
+  <string>miHoYo</string>
+  <key>openTypeNameDesignerURL</key>
+  <string>https://www.mihoyo.com/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Teyvat_Common_Language</string>
+  <string>Teyvat Common Language</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000</string>
+  <string>Version 1.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
+    <integer>63</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -139,7 +144,7 @@
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Teyvat_Common_Language Regular</string>
+  <string>Teyvat Common Language Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -149,7 +154,7 @@
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Teyvat_Common_Language</string>
+  <string>Teyvat Common Language</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -159,7 +164,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>350</integer>
 </dict>
