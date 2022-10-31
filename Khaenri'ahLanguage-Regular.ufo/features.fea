@@ -1,0 +1,90 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+#< languagesystem
+feature kern {
+  @_A = [A a];
+  @_C = [C c];
+  @_D = [D d];
+  @_E = [E e];
+  @_F = [F f];
+  @_G = [G g];
+  @_I = [I i];
+  @_L = [L l];
+  @_N = [N n];
+  @_O = [O o];
+  @_P = [P p];
+  @_R = [R r];
+  @_S = [S s];
+  @_T = [T t];
+  @_U = [U u];
+  @_V = [V v];
+  @_W = [W w];
+  @_X = [X x];
+  @_M = [M m];
+  @_K = [K k];
+  @_Z = [Z z];
+  @_H = [H h];
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos @_A @_N -19;
+    pos @_C @_C -31;
+    pos @_C @_E -13;
+    pos @_C @_I -31;
+    pos @_C @_O -25;
+    pos @_C @_U -25;
+    pos @_D @_O -38;
+    pos @_E @_C -25;
+    pos @_E @_N -38;
+    pos @_E @_X -19;
+    pos @_F @_U -19;
+    pos @_G @_N -44;
+    pos @_I @_A -25;
+    pos @_I @_C -43;
+    pos @_I @_M -25;
+    pos @_I @_P -25;
+    pos @_I @_S -38;
+    pos @_I @_T -19;
+    pos @_L @_O -25;
+    pos @_L @_U -19;
+    pos @_N @_A -25;
+    pos @_N @_C -44;
+    pos @_N @_E -56;
+    pos @_N @_O -31;
+    pos @_N @_S -25;
+    pos @_O @_C -56;
+    pos @_O @_F -25;
+    pos @_O @_I -44;
+    pos @_O @_K -25;
+    pos @_O @_N -25;
+    pos @_O @_R -19;
+    pos @_O @_S -38;
+    pos @_O @_V -44;
+    pos @_P @_I -19;
+    pos @_P @_O -25;
+    pos @_R @_C -56;
+    pos @_R @_E -19;
+    pos @_R @_O -31;
+    pos @_R @_U -38;
+    pos @_S @_A -25;
+    pos @_S @_C -31;
+    pos @_S @_E -13;
+    pos @_S @_I -50;
+    pos @_S @_O -51;
+    pos @_S @_U -44;
+    pos @_T @_I -19;
+    pos @_U @_Z -25;
+    pos @_V @_O -25;
+    pos @_W @_H 13;
+    pos @_W @_O -19;
+    pos @_X @_C -19;
+  lookupflag 0;
+  } KERN_LTR;
+
+  lookup KERN_LTR;
+} kern;
+
+table head {
+  FontRevision 1.001;
+} head;

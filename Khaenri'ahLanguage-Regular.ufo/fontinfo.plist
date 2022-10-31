@@ -9,7 +9,7 @@
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
-  <string>Khaenri&#39;ah_Language</string>
+  <string>Khaenri&#39;ah Language</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -24,7 +24,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -40,7 +40,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2021/06/13 20:27:51</string>
+  <string>2022/10/31 11:52:02</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -52,16 +52,16 @@
   <integer>-250</integer>
   <key>openTypeHheaLineGap</key>
   <integer>100</integer>
+  <key>openTypeNameDescription</key>
+  <string>Font constructed by Windy_D.</string>
   <key>openTypeNameDesigner</key>
-  <string>miHoYo Inc.</string>
-  <key>openTypeNameManufacturer</key>
-  <string>Windy_D</string>
+  <string>miHoYo</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Khaenri&#39;ah_Language</string>
+  <string>Khaenri&#39;ah Language</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000</string>
+  <string>Version 1.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -141,7 +141,7 @@
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Khaenri&#39;ah_Language Regular</string>
+  <string>Khaenri&#39;ah Language Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -151,7 +151,7 @@
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Khaenri&#39;ah_Language</string>
+  <string>Khaenri&#39;ah Language</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -161,7 +161,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>
