@@ -24,7 +24,7 @@ Clone this repo:
 
 Build otf:
 
-    $ makeotf -f Teyvat_Common_Language.ufo
+    $ makeotf -f TeyvatCommonLanguage.ufo
 
 Transform it to ttf:
 
