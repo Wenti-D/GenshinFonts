@@ -4,28 +4,43 @@
 
 ![Font sample](readme_assets/Examples.png)
 
-From top to bottom: Source Han Serif, Latin Modern Roman, Khaenri'ah Language and Teyvat Common Language
+From top to bottom: 
+ - [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
+ - [Latin Modern Roman](https://www.ctan.org/tex-archive/fonts/lm/fonts/opentype/public/lm)
+ - Teyvat Common Language
+ - Khaenri'ah Language
 
 ## Get Fonts
 
-You can get built fonts under "Build" folder.
+You can get built fonts under `Build` folder.
 
-Note: On Windows, ttf is recommended.
+*Note: On Windows, TTF version is recommended.*
 
 ## Building
 
-Take Teyvat Common Language for example. 
+0. Install [AFDKO](https://github.com/adobe-type-tools/afdko).
 
-You need [AFDKO](https://github.com/adobe-type-tools/afdko) installed first.
+1. Clone this repo:
 
-Clone this repo:
+        $ git clone https://github.com/Wenti-D/GenshinFonts
+        $ cd GenshinFonts
 
-    $ git clone https://github.com/Wenti-D/Genshin_Fonts
+2. Build OTF:
 
-Build otf:
+        $ makeotf -f <UFO folder>
 
-    $ makeotf -f TeyvatCommonLanguage.ufo
+    e.g.:
 
-Transform it to ttf:
+        $ makeotf -f TeyvatCommonLanguage.ufo
 
-    $ otf2ttf input TeyvatCommonLanguage-Regular.otf
+3. Transform OTF to TTF (optional):
+
+        $ otf2ttf input <OTF file>
+
+    e.g.:
+
+        $ otf2ttf input TeyvatCommonLanguage-Regular.otf
+
+## Contributing
+
+If have any problems, especially design problems (glyph, size, kerning, etc.), please open an issue.

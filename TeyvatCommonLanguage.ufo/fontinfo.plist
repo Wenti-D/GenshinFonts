@@ -40,7 +40,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2022/10/31 08:36:41</string>
+  <string>2022/11/01 05:37:34</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -63,7 +63,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.001</string>
+  <string>Version 1.002</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -164,7 +164,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>xHeight</key>
   <integer>350</integer>
 </dict>
