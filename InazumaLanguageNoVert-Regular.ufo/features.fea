@@ -1,0 +1,179 @@
+#/> classes
+#/> otclasses
+@L_op = [L l];
+@S_op = [S s];
+#/< otclasses
+#/< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+#< languagesystem
+feature kern {
+  @_A_ker = [A a];
+  @_E_ker = [E e];
+  @_H_ker = [H h];
+  @_I_ker = [I i];
+  @_K_ker = [K k];
+  @_M_ker = [M m];
+  @_N_ker = [N n];
+  @_O_ker = [O o];
+  @_R_ker = [R r];
+  @_T_ker = [T t];
+  @_U_ker = [U u];
+  @_W_ker = [W w];
+  @_B_ker = [B b];
+  @_D_ker = [D d];
+  @_Y_ker = [Y y];
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos A L.ss01 138;
+    pos B L.ss01 137;
+    pos C L.ss01 92;
+    pos D L.ss01 147;
+    pos E L.ss01 165;
+    pos F L.ss01 156;
+    pos G L.ss01 137;
+    pos H L.ss01 73;
+    pos I L.ss01 165;
+    pos J L.ss01 137;
+    pos K L.ss01 165;
+    pos L L.ss01 165;
+    pos M L.ss01 156;
+    pos N L.ss01 110;
+    pos O L.ss01 119;
+    pos P L.ss01 202;
+    pos Q L.ss01 239;
+    pos R L.ss01 146;
+    pos S L.ss01 165;
+    pos T L.ss01 156;
+    pos U L.ss01 211;
+    pos V L.ss01 202;
+    pos W L.ss01 192;
+    pos X L.ss01 247;
+    pos Y L.ss01 128;
+    pos Z L.ss01 128;
+    pos a L.ss01 138;
+    pos b L.ss01 137;
+    pos c L.ss01 92;
+    pos d L.ss01 147;
+    pos e L.ss01 165;
+    pos f L.ss01 156;
+    pos g L.ss01 137;
+    pos h L.ss01 73;
+    pos i L.ss01 165;
+    pos j L.ss01 137;
+    pos k L.ss01 165;
+    pos l L.ss01 165;
+    pos m L.ss01 156;
+    pos n L.ss01 110;
+    pos o L.ss01 119;
+    pos p L.ss01 202;
+    pos q L.ss01 239;
+    pos r L.ss01 146;
+    pos s L.ss01 165;
+    pos t L.ss01 156;
+    pos u L.ss01 211;
+    pos v L.ss01 202;
+    pos w L.ss01 192;
+    pos x L.ss01 247;
+    pos y L.ss01 128;
+    pos z L.ss01 128;
+    pos S.ss01 L.ss01 165;
+    pos L.ss01 A 202;
+    pos L.ss01 B 183;
+    pos L.ss01 C 128;
+    pos L.ss01 D 183;
+    pos L.ss01 E 147;
+    pos L.ss01 F 165;
+    pos L.ss01 G 147;
+    pos L.ss01 H 119;
+    pos L.ss01 I 183;
+    pos L.ss01 J 211;
+    pos L.ss01 K 165;
+    pos L.ss01 L 147;
+    pos L.ss01 M 137;
+    pos L.ss01 N 192;
+    pos L.ss01 O 174;
+    pos L.ss01 P 202;
+    pos L.ss01 Q 174;
+    pos L.ss01 R 202;
+    pos L.ss01 S 174;
+    pos L.ss01 T 128;
+    pos L.ss01 U 211;
+    pos L.ss01 V 247;
+    pos L.ss01 W 247;
+    pos L.ss01 X 293;
+    pos L.ss01 Y 238;
+    pos L.ss01 Z 183;
+    pos L.ss01 a 202;
+    pos L.ss01 b 183;
+    pos L.ss01 c 128;
+    pos L.ss01 d 183;
+    pos L.ss01 e 147;
+    pos L.ss01 f 165;
+    pos L.ss01 g 147;
+    pos L.ss01 h 119;
+    pos L.ss01 i 183;
+    pos L.ss01 j 211;
+    pos L.ss01 k 165;
+    pos L.ss01 l 147;
+    pos L.ss01 m 137;
+    pos L.ss01 n 192;
+    pos L.ss01 o 174;
+    pos L.ss01 p 202;
+    pos L.ss01 q 174;
+    pos L.ss01 r 202;
+    pos L.ss01 s 174;
+    pos L.ss01 t 128;
+    pos L.ss01 u 211;
+    pos L.ss01 v 247;
+    pos L.ss01 w 247;
+    pos L.ss01 x 293;
+    pos L.ss01 y 238;
+    pos L.ss01 z 183;
+    pos L.ss01 S.ss01 265;
+  subtable;
+    pos @_A_ker @_B_ker 27;
+    pos @_A_ker @_E_ker 27;
+    pos @_A_ker @_I_ker 36;
+    pos @_A_ker @_W_ker 27;
+    pos @_E_ker @_D_ker 46;
+    pos @_E_ker @_K_ker 18;
+    pos @_E_ker @_M_ker 27;
+    pos @_E_ker @_N_ker 37;
+    pos @_E_ker @_Y_ker 37;
+    pos @_H_ker @_O_ker -82;
+    pos @_I_ker @_R_ker -37;
+    pos @_I_ker @_T_ker -18;
+    pos @_I_ker @_W_ker -37;
+    pos @_K_ker @_I_ker 46;
+    pos @_M_ker @_I_ker 18;
+    pos @_M_ker @_O_ker -27;
+    pos @_N_ker @_A_ker 10;
+    pos @_N_ker @_N_ker -37;
+    pos @_O_ker @_M_ker 27;
+    pos @_O_ker @_N_ker 37;
+    pos @_R_ker @_O_ker -27;
+    pos @_T_ker @_E_ker 18;
+    pos @_T_ker @_O_ker -27;
+    pos @_U_ker @_T_ker -37;
+    pos @_W_ker @_A_ker 37;
+  lookupflag 0;
+  } KERN_LTR;
+
+  lookup KERN_LTR;
+} kern;
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+  sub @L_op by L.ss01;
+  sub @S_op by S.ss01;
+#< feature
+} ss01;
+
+table head {
+  FontRevision 1.000;
+} head;
