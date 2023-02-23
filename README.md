@@ -2,14 +2,9 @@
 
 **Alphabets in Teyvat!**
 
-![Font sample](readme_assets/Examples.png)
+[中文](README_CN.md) | English
 
-From top to bottom: 
- - [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
- - [Latin Modern Roman](https://www.ctan.org/tex-archive/fonts/lm/fonts/opentype/public/lm)
- - Teyvat Common Language
- - Inazuma Language
- - Khaenri'ah Language
+![Font sample](readme_assets/Examples.svg)
 
 ## Usage
 

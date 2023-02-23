@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="186.74934mm"
+   height="187.76268mm"
+   viewBox="0 0 186.74934 187.76268"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Examples.svg"
+   inkscape:export-filename="..\..\Repos\GenshinFonts\readme_assets\Examples.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0444209"
+     inkscape:cx="387.29596"
+     inkscape:cy="436.60559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="261.38885"
+       y="85.214684"
+       width="292.02786"
+       height="94.789368"
+       id="rect573" />
+    <rect
+       x="598.41772"
+       y="325.53925"
+       width="137.87544"
+       height="386.81723"
+       id="rect1233" />
+    <rect
+       x="56.193687"
+       y="310.75787"
+       width="597.14258"
+       height="690.57306"
+       id="rect970" />
+    <rect
+       x="157.0715"
+       y="194.30829"
+       width="503.7121"
+       height="95.461563"
+       id="rect964" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="图层 2"
+     transform="translate(-10.870687,-16.443952)">
+    <rect
+       style="fill:#b9e1ff;fill-opacity:0.695793;stroke:#0054a1;stroke-width:1.565;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1537"
+       width="185.18436"
+       height="186.19768"
+       x="11.653188"
+       y="17.226452" />
+    <path
+       style="fill:#b9e1ff;fill-opacity:0.695793;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.03559,79.88903 H 189.00682"
+       id="path5961" />
+  </g>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.870687,-16.443952)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.2799716,0)"
+       id="text962"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect964);display:inline;fill:#000000;stroke-width:2.51339;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="300.92773"
+         y="218.42859"
+         id="tspan945"><tspan
+           style="font-weight:500;-inkscape-font-specification:'Source Han Serif SC, Medium'"
+           id="tspan943">「向着星辰与深渊」
+</tspan></tspan><tspan
+         x="265.83967"
+         y="248.42859"
+         id="tspan953"><tspan
+           style="font-weight:500;-inkscape-font-specification:'Source Han Serif SC, Medium'"
+           id="tspan947">“</tspan><tspan
+           style="font-weight:500;-inkscape-font-specification:'Source Han Serif SC, Medium'"
+           id="tspan949">Ad astra abyssosque</tspan><tspan
+           style="font-weight:500;-inkscape-font-specification:'Source Han Serif SC, Medium'"
+           id="tspan951">”
+</tspan></tspan><tspan
+         x="261.59469"
+         y="278.42859"
+         id="tspan957"><tspan
+           style="font-size:17.3333px"
+           id="tspan955">（这句话用作测试文本再合适不过了）</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.1948131,2.9635792)"
+       id="text968"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.3333px;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect970);display:inline;fill:#000000;stroke-width:2.51339;stroke-linecap:round;stroke-linejoin:round"
+       x="-63.509232"
+       y="0"><tspan
+         x="56.193359"
+         y="332.19778"
+         id="tspan959">提瓦特通用语 / Teyvat Common Language (TCL)
+</tspan><tspan
+         x="56.193359"
+         y="358.8644"
+         id="tspan961">   v1.002
+</tspan><tspan
+         x="56.193359"
+         y="385.53103"
+         id="tspan965">   <tspan
+   style="font-weight:normal;font-family:'Teyvat Common Language';-inkscape-font-specification:'Teyvat Common Language, Normal'"
+   id="tspan963">Ad astra abyssosque</tspan>
+</tspan><tspan
+         x="56.193359"
+         y="414.01098"
+         id="tspan967">
+</tspan><tspan
+         x="56.193359"
+         y="440.67761"
+         id="tspan969">稻妻文 / Inazuma Language (IL)
+</tspan><tspan
+         x="56.193359"
+         y="467.34423"
+         id="tspan971">   v1.001
+</tspan><tspan
+         x="56.193359"
+         y="494.01086"
+         id="tspan975">   <tspan
+   style="font-weight:normal;font-family:'Inazuma Language';-inkscape-font-specification:'Inazuma Language, Normal'"
+   id="tspan973">Ad astra abyssosque</tspan>
+</tspan><tspan
+         x="56.193359"
+         y="525.1788"
+         id="tspan977">
+</tspan><tspan
+         x="56.193359"
+         y="551.84542"
+         id="tspan979">赤沙文 / Deshret Languange (DL)
+</tspan><tspan
+         x="56.193359"
+         y="578.51205"
+         id="tspan987">   v0.001<tspan
+   style="fill:#ba2b00"
+   id="tspan981">（</tspan><tspan
+   style="fill:#ba2b00"
+   id="tspan983">制作中 / </tspan><tspan
+   style="fill:#ba2b00"
+   id="tspan985">WIP）</tspan>
+</tspan><tspan
+         x="56.193359"
+         y="605.17867"
+         id="tspan991">   <tspan
+   style="font-weight:normal;font-family:'Deshret Language';-inkscape-font-specification:'Deshret Language, Normal'"
+   id="tspan989">AD ASTRA AB  SSOS    E</tspan>
+</tspan><tspan
+         x="56.193359"
+         y="634.36465"
+         id="tspan993">
+</tspan><tspan
+         x="56.193359"
+         y="661.03127"
+         id="tspan995">坎瑞亚文 / Kanri'ah Languange (KL)
+</tspan><tspan
+         x="56.193359"
+         y="687.6979"
+         id="tspan997">   v1.001
+</tspan><tspan
+         x="56.193359"
+         y="714.39119"
+         id="tspan1001">   <tspan
+   style="font-weight:normal;font-family:'Khaenri\'ah Language';-inkscape-font-specification:'Khaenri\'ah Language, Normal'"
+   id="tspan999">Ad astra abyssosque</tspan>
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.8011331,0.28406429)"
+       id="text1231"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.3333px;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:tb-rl;direction:ltr;white-space:pre;shape-inside:url(#rect1233);display:inline;fill:#000000;stroke-width:2.51339;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="722.95966"
+         y="325.53906"
+         id="tspan1003">稻妻文（纵书）/ IL (Vertical Writting)
+</tspan><tspan
+         x="696.29303"
+         y="325.53906"
+         id="tspan1005">   v1.001
+</tspan><tspan
+         x="667.37574"
+         y="325.53906"
+         id="tspan1009">   <tspan
+   style="font-weight:normal;font-family:'Inazuma Language';-inkscape-font-specification:'Inazuma Language, Normal';font-feature-settings:vert"
+   id="tspan1007">Ad astra abyssosque</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.7733113,2.786632)"
+       id="text571"
+       style="font-weight:bold;font-size:29.3333px;line-height:1;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Bold';text-align:center;white-space:pre;shape-inside:url(#rect573);display:inline;fill:#000000;stroke-width:2.13543;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="271.86376"
+         y="118.06815"
+         id="tspan1013"><tspan
+   style="font-size:37.3333px"
+   id="tspan1011">Genshin Fonts</tspan>
+</tspan><tspan
+         x="317.24646"
+         y="148.36145"
+         id="tspan1015">提瓦特的ABC</tspan></text>
+  </g>
+</svg>
