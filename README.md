@@ -18,7 +18,7 @@ You can get built fonts under `Build` folder.
 
 ![Inazuma_Vert](readme_assets/Inazuma_Vert.png)
 
-Inazuma Languange has two versions, one with Opentype feature `vert`, the other without. With this feature and supported APPs (e.g. [LibreOffice](https://www.libreoffice.org/)), Inazuma Language can be written vertically, as it in game. However, when using Adobe APPs, please select the version without `vert`.
+Inazuma Languange has two versions, one with Opentype feature `vert`, the other without. With this feature and supported APPs (e.g. [LibreOffice](https://www.libreoffice.org/), but most unlike), Inazuma Language can be written vertically, as it in game. However, when using Adobe APPs, please select the version without `vert`.
 
 ## Building
 

@@ -186,3 +186,15 @@ feature ss01 {
   sub S.vrt2 by S.vrt2.ss01;
 #< feature
 } ss01;
+feature vrt2 {
+# Vertical Alternates and Rotation
+
+#> feature
+  sub @capital by @vert;
+  sub @small by @vert;
+#< feature
+} vrt2;
+
+table head {
+  FontRevision 1.001;
+} head;

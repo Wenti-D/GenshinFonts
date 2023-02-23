@@ -18,7 +18,7 @@
 
 ![Inazuma_Vert](readme_assets/Inazuma_Vert.png)
 
-稻妻文有两个版本，一个有 Opentype 特性 `vert`，另一个没有。有了它以及支持的应用（例如 [LibreOffice](https://www.libreoffice.org/)），稻妻文就能像在游戏中一样纵书。但使用 Adobe 应用时，请选择没有 `vert` 的版本。
+稻妻文有两个版本，一个有 Opentype 特性 `vert`，另一个没有。有了它以及支持的应用（例如 [LibreOffice](https://www.libreoffice.org/)，但估计屈指可数），稻妻文就能像在游戏中一样纵书。但使用 Adobe 应用时，请选择没有 `vert` 的版本。
 
 ## 构建字体
 
