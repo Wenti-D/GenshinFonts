@@ -29,7 +29,7 @@
         $ git clone https://github.com/Wenti-D/GenshinFonts
         $ cd GenshinFonts
 
-2. 构件 OTF：
+2. 构建 OTF：
 
         $ makeotf -f <UFO folder>
 
@@ -37,7 +37,7 @@
 
         $ makeotf -f TeyvatCommonLanguage.ufo
 
-3. 将 OTF 转为 TTF（可选）:
+3. 将 OTF 转为 TTF（可选）：
 
         $ otf2ttf input <OTF file>
 
