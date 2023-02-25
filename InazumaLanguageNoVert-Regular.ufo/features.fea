@@ -175,5 +175,5 @@ feature ss01 {
 } ss01;
 
 table head {
-  FontRevision 1.000;
+  FontRevision 1.001;
 } head;

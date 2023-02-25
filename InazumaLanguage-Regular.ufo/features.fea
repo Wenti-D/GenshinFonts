@@ -196,5 +196,5 @@ feature vrt2 {
 } vrt2;
 
 table head {
-  FontRevision 1.001;
+  FontRevision 1.002;
 } head;

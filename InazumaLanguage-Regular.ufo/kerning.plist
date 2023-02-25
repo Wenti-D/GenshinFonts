@@ -5,244 +5,244 @@
   <key>L.ss01</key>
   <dict>
     <key>S.ss01</key>
-    <integer>265</integer>
+    <real>306.481</real>
     <key>public.kern2.A_ker</key>
-    <integer>202</integer>
+    <real>234.259</real>
     <key>public.kern2.B_ker</key>
-    <integer>183</integer>
+    <real>212.037</real>
     <key>public.kern2.C_ker</key>
-    <integer>128</integer>
+    <real>148.148</real>
     <key>public.kern2.D_ker</key>
-    <integer>183</integer>
+    <real>212.037</real>
     <key>public.kern2.E_ker</key>
-    <integer>147</integer>
+    <real>170.37</real>
     <key>public.kern2.F_ker</key>
-    <integer>165</integer>
+    <real>190.741</real>
     <key>public.kern2.G_ker</key>
-    <integer>147</integer>
+    <real>170.37</real>
     <key>public.kern2.H_ker</key>
-    <integer>119</integer>
+    <real>137.963</real>
     <key>public.kern2.I_ker</key>
-    <integer>183</integer>
+    <real>212.037</real>
     <key>public.kern2.J_ker</key>
-    <integer>211</integer>
+    <real>244.444</real>
     <key>public.kern2.K_ker</key>
-    <integer>165</integer>
+    <real>190.741</real>
     <key>public.kern2.L_ker</key>
-    <integer>147</integer>
+    <real>170.37</real>
     <key>public.kern2.M_ker</key>
-    <integer>137</integer>
+    <real>158.333</real>
     <key>public.kern2.N_ker</key>
-    <integer>192</integer>
+    <real>222.222</real>
     <key>public.kern2.O_ker</key>
-    <integer>174</integer>
+    <real>201.852</real>
     <key>public.kern2.P_ker</key>
-    <integer>202</integer>
+    <real>234.259</real>
     <key>public.kern2.Q_ker</key>
-    <integer>174</integer>
+    <real>201.852</real>
     <key>public.kern2.R_ker</key>
-    <integer>202</integer>
+    <real>234.259</real>
     <key>public.kern2.S_ker</key>
-    <integer>174</integer>
+    <real>201.852</real>
     <key>public.kern2.T_ker</key>
-    <integer>128</integer>
+    <real>148.148</real>
     <key>public.kern2.U_ker</key>
-    <integer>211</integer>
+    <real>244.444</real>
     <key>public.kern2.V_ker</key>
-    <integer>247</integer>
+    <real>286.111</real>
     <key>public.kern2.W_ker</key>
-    <integer>247</integer>
+    <real>286.111</real>
     <key>public.kern2.X_ker</key>
-    <integer>293</integer>
+    <real>338.889</real>
     <key>public.kern2.Y_ker</key>
-    <integer>238</integer>
+    <real>275.926</real>
     <key>public.kern2.Z_ker</key>
-    <integer>183</integer>
+    <real>212.037</real>
   </dict>
   <key>S.ss01</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
   </dict>
   <key>public.kern1.A_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>138</integer>
+    <real>160.185</real>
     <key>public.kern2.B_ker</key>
-    <integer>27</integer>
+    <real>31.4815</real>
     <key>public.kern2.E_ker</key>
-    <integer>27</integer>
+    <real>31.4815</real>
     <key>public.kern2.I_ker</key>
-    <integer>36</integer>
+    <real>41.6667</real>
     <key>public.kern2.W_ker</key>
-    <integer>27</integer>
+    <real>31.4815</real>
   </dict>
   <key>public.kern1.B_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>137</integer>
+    <real>158.333</real>
   </dict>
   <key>public.kern1.C_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>92</integer>
+    <real>106.481</real>
   </dict>
   <key>public.kern1.D_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>147</integer>
+    <real>170.37</real>
   </dict>
   <key>public.kern1.E_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
     <key>public.kern2.D_ker</key>
-    <integer>46</integer>
+    <real>53.7037</real>
     <key>public.kern2.K_ker</key>
-    <integer>18</integer>
+    <real>21.2963</real>
     <key>public.kern2.M_ker</key>
-    <integer>27</integer>
+    <real>31.4815</real>
     <key>public.kern2.N_ker</key>
-    <integer>37</integer>
+    <real>42.5926</real>
     <key>public.kern2.Y_ker</key>
-    <integer>37</integer>
+    <real>42.5926</real>
   </dict>
   <key>public.kern1.F_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>156</integer>
+    <real>180.556</real>
   </dict>
   <key>public.kern1.G_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>137</integer>
+    <real>158.333</real>
   </dict>
   <key>public.kern1.H_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>73</integer>
+    <real>84.2593</real>
     <key>public.kern2.O_ker</key>
-    <integer>-82</integer>
+    <real>-95.3704</real>
   </dict>
   <key>public.kern1.I_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
     <key>public.kern2.R_ker</key>
-    <integer>-37</integer>
+    <real>-42.5926</real>
     <key>public.kern2.T_ker</key>
-    <integer>-18</integer>
+    <real>-21.2963</real>
     <key>public.kern2.W_ker</key>
-    <integer>-37</integer>
+    <real>-42.5926</real>
   </dict>
   <key>public.kern1.J_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>137</integer>
+    <real>158.333</real>
   </dict>
   <key>public.kern1.K_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
     <key>public.kern2.I_ker</key>
-    <integer>46</integer>
+    <real>53.7037</real>
   </dict>
   <key>public.kern1.L_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
   </dict>
   <key>public.kern1.M_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>156</integer>
+    <real>180.556</real>
     <key>public.kern2.I_ker</key>
-    <integer>18</integer>
+    <real>21.2963</real>
     <key>public.kern2.O_ker</key>
-    <integer>-27</integer>
+    <real>-31.4815</real>
   </dict>
   <key>public.kern1.N_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>110</integer>
+    <real>127.778</real>
     <key>public.kern2.A_ker</key>
-    <integer>10</integer>
+    <real>12.037</real>
     <key>public.kern2.N_ker</key>
-    <integer>-37</integer>
+    <real>-42.5926</real>
   </dict>
   <key>public.kern1.O_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>119</integer>
+    <real>137.963</real>
     <key>public.kern2.M_ker</key>
-    <integer>27</integer>
+    <real>31.4815</real>
     <key>public.kern2.N_ker</key>
-    <integer>37</integer>
+    <real>42.5926</real>
   </dict>
   <key>public.kern1.P_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>202</integer>
+    <real>234.259</real>
   </dict>
   <key>public.kern1.Q_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>239</integer>
+    <real>276.852</real>
   </dict>
   <key>public.kern1.R_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>146</integer>
+    <real>169.444</real>
     <key>public.kern2.O_ker</key>
-    <integer>-27</integer>
+    <real>-31.4815</real>
   </dict>
   <key>public.kern1.S_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>165</integer>
+    <real>190.741</real>
   </dict>
   <key>public.kern1.T_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>156</integer>
+    <real>180.556</real>
     <key>public.kern2.E_ker</key>
-    <integer>18</integer>
+    <real>21.2963</real>
     <key>public.kern2.O_ker</key>
-    <integer>-27</integer>
+    <real>-31.4815</real>
   </dict>
   <key>public.kern1.U_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>211</integer>
+    <real>244.444</real>
     <key>public.kern2.T_ker</key>
-    <integer>-37</integer>
+    <real>-42.5926</real>
   </dict>
   <key>public.kern1.V_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>202</integer>
+    <real>234.259</real>
   </dict>
   <key>public.kern1.W_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>192</integer>
+    <real>222.222</real>
     <key>public.kern2.A_ker</key>
-    <integer>37</integer>
+    <real>42.5926</real>
   </dict>
   <key>public.kern1.X_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>247</integer>
+    <real>286.111</real>
   </dict>
   <key>public.kern1.Y_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>128</integer>
+    <real>148.148</real>
   </dict>
   <key>public.kern1.Z_ker</key>
   <dict>
     <key>L.ss01</key>
-    <integer>128</integer>
+    <real>148.148</real>
   </dict>
 </dict>
 </plist>
