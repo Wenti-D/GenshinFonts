@@ -25,8 +25,6 @@ languagesystem latn dflt;
 # Lookup definitions
 #
 
-
-
 table head {
-  FontRevision 0.002;
+  FontRevision 1.000;
 } head;
