@@ -14,7 +14,7 @@ You can get built fonts under `Build` folder.
 
 *Note: On Windows, TTF version is recommended.*
 
-### About Inazuma Language (No Vert)
+### About Inazuma Language (and No Vert ver.)
 
 ![Inazuma_Vert](readme_assets/Inazuma_Vert.png)
 
